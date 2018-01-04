@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DefendRadish.Plugins", "DefendRadish.Plugins.csproj", "{2F6907E7-001F-D212-B0D9-C1F2234ABC64}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DefendRadish", "DefendRadish.csproj", "{EE7132AB-980D-08C8-EA3B-E7CFACF528F7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DefendRadish.Editor", "DefendRadish.Editor.csproj", "{0C08037F-B5A5-92A3-E30C-19B037DE9359}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2F6907E7-001F-D212-B0D9-C1F2234ABC64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F6907E7-001F-D212-B0D9-C1F2234ABC64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F6907E7-001F-D212-B0D9-C1F2234ABC64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F6907E7-001F-D212-B0D9-C1F2234ABC64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE7132AB-980D-08C8-EA3B-E7CFACF528F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE7132AB-980D-08C8-EA3B-E7CFACF528F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE7132AB-980D-08C8-EA3B-E7CFACF528F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE7132AB-980D-08C8-EA3B-E7CFACF528F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C08037F-B5A5-92A3-E30C-19B037DE9359}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C08037F-B5A5-92A3-E30C-19B037DE9359}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C08037F-B5A5-92A3-E30C-19B037DE9359}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C08037F-B5A5-92A3-E30C-19B037DE9359}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
